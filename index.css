@@ -63,7 +63,7 @@ button.deleteButton {
 }
 
 .itemType {
-  width: 60%;
+  width: 100%;
   font-size: 0.8em;
   padding: .5em 1em;
   border: 2px solid #e6e9ed;
